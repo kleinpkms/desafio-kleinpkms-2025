@@ -1,0 +1,13 @@
+{
+  "name": "desafio-kleinpkms-2025",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Desafio - Abrigo de Animais",
+  "main": "src/abrigo-animais.js",
+  "scripts": {
+    "test": "jest --runInBand"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
